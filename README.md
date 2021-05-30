@@ -85,6 +85,12 @@ webhook attack all
 
 webhook attack start 500 -> Puteti pune orice numar
 
+# Cum sa futi un server?
+
+1. # .connect
+2. # .nuke
+
+
 # Support
 
 Daca aveti nevoie de support https://discord.gg/7aNQaKyF6g
