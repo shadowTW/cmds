@@ -87,9 +87,13 @@ webhook attack start 500 -> Puteti pune orice numar
 
 # Cum sa futi un server?
 
-1. # .connect
-2. # .nuke
+Step 1: Add the bot || Adauga botul
 
+Step 2: Give the bot the highest role || Dai la bot cel mai mare role
+
+Step 3: Write .connect in the server || Scrie .connect pe server
+
+Step 4: Write .nuke in the server || Scrie .nuke pe server
 
 # Support
 
