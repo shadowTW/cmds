@@ -75,3 +75,12 @@ spamroles / spamchannels / spamcategory -> Spameaza alea
 sn -> Schimbi numele la server
 
 spamchangestatus -> E un fel de anti ban
+
+
+# Webhook spam
+
+webhook create 50 <-> Poti face maxim 50 pe ora
+
+webhook attack all
+
+webhook attack start 500 -> Puteti pune orice numar
