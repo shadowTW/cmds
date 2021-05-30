@@ -84,3 +84,7 @@ webhook create 50 <-> Poti face maxim 50 pe ora
 webhook attack all
 
 webhook attack start 500 -> Puteti pune orice numar
+
+# Support
+
+Daca aveti nevoie de support https://discord.gg/7aNQaKyF6g
