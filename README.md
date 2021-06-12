@@ -74,7 +74,7 @@ spamroles / spamchannels / spamcategory -> Spameaza alea
 
 sn -> Schimbi numele la server
 
-spamchangestatus -> E un fel de anti bam
+spamchangestatus -> E un fel de anti ban
 
 banv2 - Baneaza tot serverul da cu API-urii random
 
