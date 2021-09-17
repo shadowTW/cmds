@@ -99,4 +99,4 @@ Step 4: Write .nuke in the server || Scrie .nuke pe server
 
 # Support
 
-Daca aveti nevoie de support https://discord.gg/7aNQaKyF6g
+Daca aveti nevoie de support https://discord.gg/yVkDB4aBpC
